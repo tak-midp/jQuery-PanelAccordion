@@ -11,5 +11,5 @@ License
 -------
 
 * jQuery plugin Panel Accordion is released under the MIT License.
-* Copyright &copy; 2014 <a href="http://midp.jp" target="_blank">mid:P</a>.
+* Copyright &copy; 2014 <a href="http://midp.jp" target="_blank">mid:P</a>
 * <a href="http://midp.jp" target="_blank">Panel Accordion project</a>
