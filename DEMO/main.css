@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.clearfix:before, .clearfix:after {
+    content:"";
+    display:block;
+    overflow:hidden;
+}
+.clearfix:after { clear:both; }
+.clearfix { zoom:1; }
+
+ul.pa-thum li{
+	background-color: #f88;
+	border:1px solid #ccc;
+	display: block;
+	float: left;
+	height: 100px;
+	list-style-type: none;
+	width: 100px;
+}
+
+ul.pa-cont li{
+	background-color: #88f;
+	display: none;
+	width: 100%;
+	height:300px;
+}
